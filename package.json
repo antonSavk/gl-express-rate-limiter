@@ -1,0 +1,8 @@
+{
+  "name": "gl-express-rate-limiter",
+  "version": "1.0.0",
+  "description": "Rate limiting middleware",
+  "main": "index.js",
+  "author": "antonSavk",
+  "license": "ISC"
+}
