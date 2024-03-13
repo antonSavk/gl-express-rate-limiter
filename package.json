@@ -7,6 +7,6 @@
   "license": "ISC",
   "url": "git@github.com:antonSavk/gl-express-rate-limiter.git",
   "dependencies": {
-    "gl-rate-limit-monitor": "^1.0.0"
+    "gl-rate-limit-monitor": "^1.0.1"
   }
 }
