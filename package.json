@@ -4,5 +4,6 @@
   "description": "Rate limiting middleware",
   "main": "index.js",
   "author": "antonSavk",
-  "license": "ISC"
+  "license": "ISC",
+  "url": "https://github.com/antonSavk/gl-express-rate-limiter.git"
 }
