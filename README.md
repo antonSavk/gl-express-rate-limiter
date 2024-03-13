@@ -7,9 +7,9 @@ This package provides a simple rate limiting middleware for Express.js applicati
 ## Installation
 
 ```bash
-npm install express-rate-limit-middleware
+npm install gl-express-rate-limiter
 const express = require('express');
-const rateLimit = require('express-rate-limit-middleware');
+const rateLimit = require('gl-express-rate-limiter');
 
 const app = express();
 
