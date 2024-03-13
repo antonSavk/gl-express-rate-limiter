@@ -1,6 +1,6 @@
 {
   "name": "gl-express-rate-limiter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rate limiting middleware",
   "main": "rateLimiter.js",
   "author": "antonSavk",
