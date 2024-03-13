@@ -1,7 +1,7 @@
 class RateLimiter {
     constructor(options) {
         this.options = {
-            windowMs: options.windowMs || 60 * 1000, // 1 minute
+            windowMs: options.windowMs || 60 * 1000,
             maxRequests: options.maxRequests || 100,
             message: options.message || 'Too many requests, please try again later.',
             statusCode: options.statusCode || 429,
