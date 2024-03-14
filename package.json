@@ -1,20 +1,20 @@
 {
   "name": "gl-express-rate-limiter",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Rate limiting middleware",
   "main": "./src/rateLimiter.js",
   "author": "antonSavk",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:antonSavk/gl-express-rate-limiter.git"
+    "url": "https://github.com/antonSavk/gl-express-rate-limiter.git"
   },
   "scripts": {
     "start": "npm run dev",
     "test": "jest ."
   },
   "dependencies": {
-    "gl-rate-limit-monitor": "^1.0.6",
+    "gl-rate-limit-monitor": "^1.0.7",
     "jest": "^29.7.0",
     "lodash": "^4.17.21",
     "nest": "^0.1.6",
